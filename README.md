@@ -1,6 +1,6 @@
 # Hustlers API
 
-Hustlers API allows you to send SMS messages effortlessly through a simple POST request.
+Hustlers API allows you to send SMS messages through a simple POST request.
 
 ![Hustlers API Banner](https://i.ibb.co/4T6L4ym/fav.png)
 
